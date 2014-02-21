@@ -1,3 +1,6 @@
+// Solution to Uva 12368
+// Strategy : DP
+
 #include <cstdio>
 #include <iostream>
 #include <cstring>
