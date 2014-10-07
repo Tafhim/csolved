@@ -1,0 +1,11 @@
+Case 1;
+The change is already possible with an outer layer digit
+such as 2112111
+So we just increment the last digit and we have our solution
+This can also be extended into 
+2212111
+or more specifically
+
+2112121
+
+PALIN: Use simulated recursion using custom stack
